@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 9a8b02a6b8eb5d443b323152494f88f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4001353808867806727
+    second: Joystick Arrow Spritesheet_0
+  - first:
+      213: 691260790072203158
+    second: Joystick Arrow Spritesheet_1
+  - first:
+      213: 1076473133607203445
+    second: Joystick Arrow Spritesheet_2
+  - first:
+      213: 9171194177792343883
+    second: Joystick Arrow Spritesheet_3
+  - first:
+      213: 1689786368073083717
+    second: Joystick Arrow Spritesheet_4
+  - first:
+      213: -1039675677360092302
+    second: Joystick Arrow Spritesheet_5
+  - first:
+      213: -6793358405725400181
+    second: Joystick Arrow Spritesheet_6
+  - first:
+      213: -3288492810765768477
+    second: Joystick Arrow Spritesheet_7
+  - first:
+      213: -2265568284474916825
+    second: Joystick Arrow Spritesheet_8
+  - first:
+      213: 1580788155548930366
+    second: Joystick Arrow Spritesheet_9
+  - first:
+      213: 2828220438807029092
+    second: Joystick Arrow Spritesheet_10
+  - first:
+      213: -9213261663869109512
+    second: Joystick Arrow Spritesheet_11
+  - first:
+      213: 7025664341025011225
+    second: Joystick Arrow Spritesheet_12
+  - first:
+      213: -2970493160541493726
+    second: Joystick Arrow Spritesheet_13
+  - first:
+      213: -2266505169511043401
+    second: Joystick Arrow Spritesheet_14
+  - first:
+      213: 4758394165480473137
+    second: Joystick Arrow Spritesheet_15
+  - first:
+      213: 5112092962855966501
+    second: Joystick Arrow Spritesheet_16
+  - first:
+      213: 4060142685760276742
+    second: Joystick Arrow Spritesheet_17
+  - first:
+      213: 6392092865794728641
+    second: Joystick Arrow Spritesheet_18
+  - first:
+      213: -7755775612404696901
+    second: Joystick Arrow Spritesheet_19
+  - first:
+      213: -194310712705909018
+    second: Joystick Arrow Spritesheet_20
+  - first:
+      213: -2168813791039827186
+    second: Joystick Arrow Spritesheet_21
+  - first:
+      213: 8647635005974450869
+    second: Joystick Arrow Spritesheet_22
+  - first:
+      213: 1625498690679197552
+    second: Joystick Arrow Spritesheet_23
+  - first:
+      213: 3624070643109975256
+    second: Joystick Arrow Spritesheet_24
+  - first:
+      213: 5801763673272978579
+    second: Joystick Arrow Spritesheet_25
+  - first:
+      213: -5941635202125456825
+    second: Joystick Arrow Spritesheet_26
+  - first:
+      213: -8917067371876364046
+    second: Joystick Arrow Spritesheet_27
+  - first:
+      213: 2949920418004255455
+    second: Joystick Arrow Spritesheet_28
+  - first:
+      213: -447993925898483242
+    second: Joystick Arrow Spritesheet_29
+  - first:
+      213: 3225110985660823144
+    second: Joystick Arrow Spritesheet_30
+  - first:
+      213: -3656637495909161117
+    second: Joystick Arrow Spritesheet_31
+  - first:
+      213: 444420542691047836
+    second: Joystick Arrow Spritesheet_32
+  - first:
+      213: -2339523070601782266
+    second: Joystick Arrow Spritesheet_33
+  - first:
+      213: -1160418259358478535
+    second: Joystick Arrow Spritesheet_34
+  - first:
+      213: -4222494128325091984
+    second: Joystick Arrow Spritesheet_35
+  - first:
+      213: -1827705383693704930
+    second: Joystick Arrow Spritesheet_36
+  - first:
+      213: -7314658397633718826
+    second: Joystick Arrow Spritesheet_37
+  - first:
+      213: -2453145423747396753
+    second: Joystick Arrow Spritesheet_38
+  - first:
+      213: 2092481682247311338
+    second: Joystick Arrow Spritesheet_39
+  - first:
+      213: 4357088327359054582
+    second: Joystick Arrow Spritesheet_40
+  - first:
+      213: 8180981998213158017
+    second: Joystick Arrow Spritesheet_41
+  - first:
+      213: -5309135657397687429
+    second: Joystick Arrow Spritesheet_42
+  - first:
+      213: 3463606969166026622
+    second: Joystick Arrow Spritesheet_43
+  - first:
+      213: -3081990652534975513
+    second: Joystick Arrow Spritesheet_44
+  - first:
+      213: -248346461398531148
+    second: Joystick Arrow Spritesheet_45
+  - first:
+      213: 7350536460747730099
+    second: Joystick Arrow Spritesheet_46
+  - first:
+      213: -2358244796326440177
+    second: Joystick Arrow Spritesheet_47
+  - first:
+      213: 1972408341862614957
+    second: Joystick Arrow Spritesheet_48
+  - first:
+      213: 2265181851981895334
+    second: Joystick Arrow Spritesheet_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f137c139e55878c0800000000000000
+      internalID: -4001353808867806727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1368
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d86fa60ad79900800000000000000
+      internalID: 691260790072203158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1368
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b8e29c9660fe00800000000000000
+      internalID: 1076473133607203445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1368
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f717d7380a64f70800000000000000
+      internalID: 9171194177792343883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1368
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2b47bfb3537710800000000000000
+      internalID: 1689786368073083717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8659da745291f0800000000000000
+      internalID: -1039675677360092302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d2d2d58429b1a0800000000000000
+      internalID: -6793358405725400181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1216
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e861e7363dec52d0800000000000000
+      internalID: -3288492810765768477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1216
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204b7516a51f80e0800000000000000
+      internalID: -2265568284474916825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1216
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3193acb37610f510800000000000000
+      internalID: 1580788155548930366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a799218bdf3720800000000000000
+      internalID: 2828220438807029092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1064
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7b56a45be32080800000000000000
+      internalID: -9213261663869109512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1064
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bced9e7c208160800000000000000
+      internalID: 7025664341025011225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1064
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22662367530b6c6d0800000000000000
+      internalID: -2970493160541493726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1064
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be25b98e81cb80e0800000000000000
+      internalID: -2266505169511043401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13241ce4846390240800000000000000
+      internalID: 4758394165480473137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 912
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ddc5f67dc1f640800000000000000
+      internalID: 5112092962855966501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 912
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609442ad246885830800000000000000
+      internalID: 4060142685760276742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 912
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2e00d389645b850800000000000000
+      internalID: 6392092865794728641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 912
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8faf02c23fd5490800000000000000
+      internalID: -7755775612404696901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7c11bf6bad4df0800000000000000
+      internalID: -194310712705909018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 760
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035a111953d6e1e0800000000000000
+      internalID: -2168813791039827186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 760
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b217568832920870800000000000000
+      internalID: 8647635005974450869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 760
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcbc8627eee8610800000000000000
+      internalID: 1625498690679197552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 760
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4dd7b7c094b4230800000000000000
+      internalID: 3624070643109975256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c83306251048050800000000000000
+      internalID: 5801763673272978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1b5883421b8da0800000000000000
+      internalID: -5941635202125456825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 608
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0551d4876304480800000000000000
+      internalID: -8917067371876364046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 608
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c0d6adf830f820800000000000000
+      internalID: 2949920418004255455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 608
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c941e5e768c9f0800000000000000
+      internalID: -447993925898483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866f585aa55e1cc20800000000000000
+      internalID: 3225110985660823144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 456
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e5f73293014dc0800000000000000
+      internalID: -3656637495909161117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 456
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997cf10126ea2600800000000000000
+      internalID: 444420542691047836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 456
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c13f0a928588fd0800000000000000
+      internalID: -2339523070601782266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 456
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8f04cdbd55efe0800000000000000
+      internalID: -1160418259358478535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d920746ffa665c0800000000000000
+      internalID: -4222494128325091984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 304
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e112eda13afa2a6e0800000000000000
+      internalID: -1827705383693704930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 304
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d6bb21fc1d7a90800000000000000
+      internalID: -7314658397633718826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 304
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b49230c3da4fdd0800000000000000
+      internalID: -2453145423747396753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 304
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefdc59e00df90d10800000000000000
+      internalID: 2092481682247311338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2cc37bfbc777c30800000000000000
+      internalID: 4357088327359054582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845c5d58cfa88170800000000000000
+      internalID: 8180981998213158017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 152
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b6374af392256b0800000000000000
+      internalID: -5309135657397687429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 152
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7755beff24311030800000000000000
+      internalID: 3463606969166026622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 152
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31492a4d19a35d0800000000000000
+      internalID: -3081990652534975513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38d1b8532bd8cf0800000000000000
+      internalID: -248346461398531148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcec6b57f9520660800000000000000
+      internalID: 7350536460747730099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039c8d2ad4d54fd0800000000000000
+      internalID: -2358244796326440177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70db8cfe66f5b10800000000000000
+      internalID: 1972408341862614957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Arrow Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6da0794ea8f6f10800000000000000
+      internalID: 2265181851981895334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1966ebe0fc00b8a408ed22cdafa7486c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

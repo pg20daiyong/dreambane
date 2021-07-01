@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 628703a12a6287a42a63caddc8a2a05f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3837829892605173124
+    second: Settings Wipe Spritesheet_0
+  - first:
+      213: -5896810100163416601
+    second: Settings Wipe Spritesheet_1
+  - first:
+      213: 3550293875037989675
+    second: Settings Wipe Spritesheet_2
+  - first:
+      213: 1235412042538266139
+    second: Settings Wipe Spritesheet_3
+  - first:
+      213: 8147163354598083184
+    second: Settings Wipe Spritesheet_4
+  - first:
+      213: -2744324076938518862
+    second: Settings Wipe Spritesheet_5
+  - first:
+      213: -5759538711044590602
+    second: Settings Wipe Spritesheet_6
+  - first:
+      213: 5143657833198067554
+    second: Settings Wipe Spritesheet_7
+  - first:
+      213: -1799730199717357159
+    second: Settings Wipe Spritesheet_8
+  - first:
+      213: -1197040882387069552
+    second: Settings Wipe Spritesheet_9
+  - first:
+      213: -8704000041594544246
+    second: Settings Wipe Spritesheet_10
+  - first:
+      213: 73919196684799375
+    second: Settings Wipe Spritesheet_11
+  - first:
+      213: 1715750147149467437
+    second: Settings Wipe Spritesheet_12
+  - first:
+      213: 1757718735601155804
+    second: Settings Wipe Spritesheet_13
+  - first:
+      213: 7777621286736516749
+    second: Settings Wipe Spritesheet_14
+  - first:
+      213: -6685813000674329797
+    second: Settings Wipe Spritesheet_15
+  - first:
+      213: 2492243825250800146
+    second: Settings Wipe Spritesheet_16
+  - first:
+      213: -346290215022761974
+    second: Settings Wipe Spritesheet_17
+  - first:
+      213: 3580875554516640729
+    second: Settings Wipe Spritesheet_18
+  - first:
+      213: 549221060068052792
+    second: Settings Wipe Spritesheet_19
+  - first:
+      213: 415413332812000927
+    second: Settings Wipe Spritesheet_20
+  - first:
+      213: -1314227252696820208
+    second: Settings Wipe Spritesheet_21
+  - first:
+      213: -5039120772380856884
+    second: Settings Wipe Spritesheet_22
+  - first:
+      213: 2653414544531861165
+    second: Settings Wipe Spritesheet_23
+  - first:
+      213: -2534502335249822748
+    second: Settings Wipe Spritesheet_24
+  - first:
+      213: 8207731005211015843
+    second: Settings Wipe Spritesheet_25
+  - first:
+      213: 7723310821807998813
+    second: Settings Wipe Spritesheet_26
+  - first:
+      213: 816771645419595940
+    second: Settings Wipe Spritesheet_27
+  - first:
+      213: -4525446222712960746
+    second: Settings Wipe Spritesheet_28
+  - first:
+      213: -4025430567940106693
+    second: Settings Wipe Spritesheet_29
+  - first:
+      213: 5183428078773301927
+    second: Settings Wipe Spritesheet_30
+  - first:
+      213: -2640917633765636849
+    second: Settings Wipe Spritesheet_31
+  - first:
+      213: -6400964984750349076
+    second: Settings Wipe Spritesheet_32
+  - first:
+      213: 8426213579039902604
+    second: Settings Wipe Spritesheet_33
+  - first:
+      213: 5302855800845094698
+    second: Settings Wipe Spritesheet_34
+  - first:
+      213: 4231584053176515433
+    second: Settings Wipe Spritesheet_35
+  - first:
+      213: 7970128888896419919
+    second: Settings Wipe Spritesheet_36
+  - first:
+      213: -3333542331018649066
+    second: Settings Wipe Spritesheet_37
+  - first:
+      213: 2135850379903260520
+    second: Settings Wipe Spritesheet_38
+  - first:
+      213: 2064630816314856329
+    second: Settings Wipe Spritesheet_39
+  - first:
+      213: -5673237154952394711
+    second: Settings Wipe Spritesheet_40
+  - first:
+      213: -4353065014258790685
+    second: Settings Wipe Spritesheet_41
+  - first:
+      213: 5908194703817820106
+    second: Settings Wipe Spritesheet_42
+  - first:
+      213: -913681522263068087
+    second: Settings Wipe Spritesheet_43
+  - first:
+      213: -5199197850532201821
+    second: Settings Wipe Spritesheet_44
+  - first:
+      213: -2535048817211212230
+    second: Settings Wipe Spritesheet_45
+  - first:
+      213: 7348568098341271098
+    second: Settings Wipe Spritesheet_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5b1124f5b24530800000000000000
+      internalID: 3837829892605173124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede2dfd4725a2ea0800000000000000
+      internalID: -5896810100163416601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b62e5187d254130800000000000000
+      internalID: 3550293875037989675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eabba05b0152110800000000000000
+      internalID: 1235412042538266139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a06edc7e9801170800000000000000
+      internalID: 8147163354598083184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1785cac33ae9d0800000000000000
+      internalID: -2744324076938518862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37312ce020210b0800000000000000
+      internalID: -5759538711044590602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1de90c81f16740800000000000000
+      internalID: 5143657833198067554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999dd423be21607e0800000000000000
+      internalID: -1799730199717357159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d2bfd8a1436fe0800000000000000
+      internalID: -1197040882387069552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f95c3f31e253780800000000000000
+      internalID: -8704000041594544246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dca742e1d960100800000000000000
+      internalID: 73919196684799375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0b2c1ba19fc710800000000000000
+      internalID: 1715750147149467437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3e8290eba46810800000000000000
+      internalID: 1757718735601155804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8652794a59afeb60800000000000000
+      internalID: 7777621286736516749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3e14bf783733a0800000000000000
+      internalID: -6685813000674329797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2121cb9fd8a369220800000000000000
+      internalID: 2492243825250800146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ef5852eab13bf0800000000000000
+      internalID: -346290215022761974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d328d33853d1b130800000000000000
+      internalID: 3580875554516640729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f058ce4a93f9700800000000000000
+      internalID: 549221060068052792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e6839a938d3c500800000000000000
+      internalID: 415413332812000927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165ed8d64de2cde0800000000000000
+      internalID: -1314227252696820208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd62fd1b52711ab0800000000000000
+      internalID: -5039120772380856884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2da84872d2d420800000000000000
+      internalID: 2653414544531861165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4901fd83a3dcd0800000000000000
+      internalID: -2534502335249822748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaff81ecd7b7e170800000000000000
+      internalID: 8207731005211015843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57cbc7c546be2b60800000000000000
+      internalID: 7723310821807998813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8a8dbeb71c55b00800000000000000
+      internalID: 816771645419595940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198f0523a26231c0800000000000000
+      internalID: -4525446222712960746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365ee1e93cc228c0800000000000000
+      internalID: -4025430567940106693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2711aef5c3fe740800000000000000
+      internalID: 5183428078773301927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05855e7763995bd0800000000000000
+      internalID: -2640917633765636849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ed3892443b27a0800000000000000
+      internalID: -6400964984750349076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0f3c2b9cefe470800000000000000
+      internalID: 8426213579039902604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fcd705147879940800000000000000
+      internalID: 5302855800845094698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3bc6c64b99ba30800000000000000
+      internalID: 4231584053176515433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ffb43ff59b9e60800000000000000
+      internalID: 7970128888896419919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e7eb69e0ecb1d0800000000000000
+      internalID: -3333542331018649066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675483ba9014ad10800000000000000
+      internalID: 2135850379903260520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98395ced9ca07ac10800000000000000
+      internalID: 2064630816314856329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c38c9ddc9441b0800000000000000
+      internalID: -5673237154952394711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8cecde6ec693c0800000000000000
+      internalID: -4353065014258790685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c7e8b7cf1ef150800000000000000
+      internalID: 5908194703817820106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fba31f73f153f0800000000000000
+      internalID: -913681522263068087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabd0af91db8d7b0800000000000000
+      internalID: -5199197850532201821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef9d13882b1dcd0800000000000000
+      internalID: -2535048817211212230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings Wipe Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36366540cb5bf560800000000000000
+      internalID: 7348568098341271098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dbf349b42a853a6488d05309f9a55e79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: d4237f812139d944583e34fb0bb36729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4542898587576601077
+    second: Play Button Highlighted Spritesheet_0
+  - first:
+      213: 1477414497756956570
+    second: Play Button Highlighted Spritesheet_1
+  - first:
+      213: 1345654437258998684
+    second: Play Button Highlighted Spritesheet_2
+  - first:
+      213: 8471028956457147558
+    second: Play Button Highlighted Spritesheet_3
+  - first:
+      213: 1982733473311272335
+    second: Play Button Highlighted Spritesheet_4
+  - first:
+      213: -365096610983164190
+    second: Play Button Highlighted Spritesheet_5
+  - first:
+      213: -5119805623052985204
+    second: Play Button Highlighted Spritesheet_6
+  - first:
+      213: -7253573424743993915
+    second: Play Button Highlighted Spritesheet_7
+  - first:
+      213: -3157647613268001357
+    second: Play Button Highlighted Spritesheet_8
+  - first:
+      213: -1970159405722791916
+    second: Play Button Highlighted Spritesheet_9
+  - first:
+      213: -1639890261089941603
+    second: Play Button Highlighted Spritesheet_10
+  - first:
+      213: 2496930220389871431
+    second: Play Button Highlighted Spritesheet_11
+  - first:
+      213: -3243970848386955681
+    second: Play Button Highlighted Spritesheet_12
+  - first:
+      213: -7835973388513644786
+    second: Play Button Highlighted Spritesheet_13
+  - first:
+      213: 2468461861482584841
+    second: Play Button Highlighted Spritesheet_14
+  - first:
+      213: -594298916453791271
+    second: Play Button Highlighted Spritesheet_15
+  - first:
+      213: 8290705039932789866
+    second: Play Button Highlighted Spritesheet_16
+  - first:
+      213: -6391377138222025052
+    second: Play Button Highlighted Spritesheet_17
+  - first:
+      213: 7583938533079366977
+    second: Play Button Highlighted Spritesheet_18
+  - first:
+      213: 5724815750485280154
+    second: Play Button Highlighted Spritesheet_19
+  - first:
+      213: -3523226613827831907
+    second: Play Button Highlighted Spritesheet_20
+  - first:
+      213: 1824487213200385880
+    second: Play Button Highlighted Spritesheet_21
+  - first:
+      213: -5837222589359900003
+    second: Play Button Highlighted Spritesheet_22
+  - first:
+      213: -5618935232663006159
+    second: Play Button Highlighted Spritesheet_23
+  - first:
+      213: -1319191918546197968
+    second: Play Button Highlighted Spritesheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -86}
+        - {x: -381, y: 68}
+        - {x: 378, y: 68}
+        - {x: 378, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067fdccdc164f0c0800000000000000
+      internalID: -4542898587576601077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -382, y: -88}
+        - {x: -382, y: 70}
+        - {x: 380, y: 70}
+        - {x: 380, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c0d478a4d08410800000000000000
+      internalID: 1477414497756956570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -86}
+        - {x: -380, y: 70}
+        - {x: 381, y: 70}
+        - {x: 381, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933043c499bca210800000000000000
+      internalID: 1345654437258998684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -86}
+        - {x: -381, y: 70}
+        - {x: 380, y: 70}
+        - {x: 380, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac1da754f32f8570800000000000000
+      internalID: 8471028956457147558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -88}
+        - {x: -380, y: 70}
+        - {x: 380, y: 70}
+        - {x: 380, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8daef8c695148b10800000000000000
+      internalID: 1982733473311272335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -87}
+        - {x: -381, y: 69}
+        - {x: 378, y: 69}
+        - {x: 378, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e646a1119aeeeaf0800000000000000
+      internalID: -365096610983164190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -382, y: -89}
+        - {x: -382, y: 69}
+        - {x: 380, y: 69}
+        - {x: 380, y: -89}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c11e669ebc2f8b0800000000000000
+      internalID: -5119805623052985204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -89}
+        - {x: -380, y: 69}
+        - {x: 381, y: 69}
+        - {x: 381, y: -89}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdabe9b661265b90800000000000000
+      internalID: -7253573424743993915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -87}
+        - {x: -381, y: 69}
+        - {x: 380, y: 69}
+        - {x: 380, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdfc45c938cd24d0800000000000000
+      internalID: -3157647613268001357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -87}
+        - {x: -380, y: 69}
+        - {x: 380, y: 69}
+        - {x: 380, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109ff6757698a4e0800000000000000
+      internalID: -1970159405722791916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -86}
+        - {x: -381, y: 70}
+        - {x: 380, y: 70}
+        - {x: 380, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978c1dfe70fd39e0800000000000000
+      internalID: -1639890261089941603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -382, y: -88}
+        - {x: -382, y: 70}
+        - {x: 381, y: 70}
+        - {x: 381, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa64f5ec0e6a220800000000000000
+      internalID: 2496930220389871431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -86}
+        - {x: -380, y: 70}
+        - {x: 381, y: 70}
+        - {x: 381, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564c2063b91bf2d0800000000000000
+      internalID: -3243970848386955681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -88}
+        - {x: -381, y: 70}
+        - {x: 382, y: 70}
+        - {x: 382, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fea3c48b7014390800000000000000
+      internalID: -7835973388513644786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -86}
+        - {x: -380, y: 70}
+        - {x: 382, y: 70}
+        - {x: 382, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd44b0cfcb14220800000000000000
+      internalID: 2468461861482584841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -86}
+        - {x: -381, y: 71}
+        - {x: 378, y: 71}
+        - {x: 378, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94f52c840a0c7f0800000000000000
+      internalID: -594298916453791271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -86}
+        - {x: -380, y: 71}
+        - {x: 378, y: 71}
+        - {x: 378, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a641cbace408e0370800000000000000
+      internalID: 8290705039932789866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -84}
+        - {x: -380, y: 69}
+        - {x: 383, y: 69}
+        - {x: 383, y: -84}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a639b21b544d47a0800000000000000
+      internalID: -6391377138222025052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -379, y: -87}
+        - {x: -379, y: 71}
+        - {x: 378, y: 71}
+        - {x: 378, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db7961aef8f3960800000000000000
+      internalID: 7583938533079366977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -84}
+        - {x: -380, y: 71}
+        - {x: 380, y: 71}
+        - {x: 380, y: -84}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958c3cf791a27f40800000000000000
+      internalID: 5724815750485280154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -379, y: -86}
+        - {x: -379, y: 70}
+        - {x: 377, y: 70}
+        - {x: 377, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f693cf0cfa1fc0800000000000000
+      internalID: -3523226613827831907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -382, y: -86}
+        - {x: -382, y: 70}
+        - {x: 378, y: 70}
+        - {x: 378, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572d003471e15910800000000000000
+      internalID: 1824487213200385880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -85}
+        - {x: -380, y: 68}
+        - {x: 377, y: 68}
+        - {x: 377, y: -85}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a315e5bf40efea0800000000000000
+      internalID: -5837222589359900003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -381, y: -88}
+        - {x: -381, y: 70}
+        - {x: 380, y: 70}
+        - {x: 380, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d1312d288502b0800000000000000
+      internalID: -5618935232663006159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button Highlighted Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -380, y: -86}
+        - {x: -380, y: 70}
+        - {x: 381, y: 70}
+        - {x: 381, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ec7080f941bde0800000000000000
+      internalID: -1319191918546197968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edd2a945a54d3a14c80a6f4a6685c125
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: 69cd82f1f25e2974a8ba50e7ef71edc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4871259896018553456
+    second: You Died Spritesheet_0
+  - first:
+      213: -336499906202572044
+    second: You Died Spritesheet_1
+  - first:
+      213: -8957672107580583298
+    second: You Died Spritesheet_2
+  - first:
+      213: 1722731812449405553
+    second: You Died Spritesheet_3
+  - first:
+      213: 424950862921428289
+    second: You Died Spritesheet_4
+  - first:
+      213: 8232189489788198734
+    second: You Died Spritesheet_5
+  - first:
+      213: -1013543051385653507
+    second: You Died Spritesheet_6
+  - first:
+      213: 6756365128885059555
+    second: You Died Spritesheet_7
+  - first:
+      213: 568058951157724674
+    second: You Died Spritesheet_8
+  - first:
+      213: -8952278197968875918
+    second: You Died Spritesheet_9
+  - first:
+      213: -7699940870401159316
+    second: You Died Spritesheet_10
+  - first:
+      213: -8333485347443983565
+    second: You Died Spritesheet_11
+  - first:
+      213: -5306733540720152696
+    second: You Died Spritesheet_12
+  - first:
+      213: 7983566128157703827
+    second: You Died Spritesheet_13
+  - first:
+      213: 3176031655148220967
+    second: You Died Spritesheet_14
+  - first:
+      213: 6509800412969884050
+    second: You Died Spritesheet_15
+  - first:
+      213: 6461804042040955269
+    second: You Died Spritesheet_16
+  - first:
+      213: -6070921689690402205
+    second: You Died Spritesheet_17
+  - first:
+      213: 6365347160649857657
+    second: You Died Spritesheet_18
+  - first:
+      213: -6428436759278879605
+    second: You Died Spritesheet_19
+  - first:
+      213: -1585547462420477590
+    second: You Died Spritesheet_20
+  - first:
+      213: 208690509386320639
+    second: You Died Spritesheet_21
+  - first:
+      213: -8910641086726039804
+    second: You Died Spritesheet_22
+  - first:
+      213: -8297781328900031543
+    second: You Died Spritesheet_23
+  - first:
+      213: -8615116370837609365
+    second: You Died Spritesheet_24
+  - first:
+      213: 4325052713237334158
+    second: You Died Spritesheet_25
+  - first:
+      213: -4340387358732631871
+    second: You Died Spritesheet_26
+  - first:
+      213: -4359674993519597332
+    second: You Died Spritesheet_27
+  - first:
+      213: -909007927700485659
+    second: You Died Spritesheet_28
+  - first:
+      213: 995275743798755034
+    second: You Died Spritesheet_29
+  - first:
+      213: -2880258913705709580
+    second: You Died Spritesheet_30
+  - first:
+      213: 1350663750076714397
+    second: You Died Spritesheet_31
+  - first:
+      213: -6031189080373212085
+    second: You Died Spritesheet_32
+  - first:
+      213: 191902886188659813
+    second: You Died Spritesheet_33
+  - first:
+      213: -5347149675498107215
+    second: You Died Spritesheet_34
+  - first:
+      213: 2210055480085299247
+    second: You Died Spritesheet_35
+  - first:
+      213: -4117360116859825841
+    second: You Died Spritesheet_36
+  - first:
+      213: 4873175460483099441
+    second: You Died Spritesheet_37
+  - first:
+      213: -8181101022586592798
+    second: You Died Spritesheet_38
+  - first:
+      213: -553620253524041231
+    second: You Died Spritesheet_39
+  - first:
+      213: 2679817633263711456
+    second: You Died Spritesheet_40
+  - first:
+      213: -5329759484917058383
+    second: You Died Spritesheet_41
+  - first:
+      213: 7524567152172302738
+    second: You Died Spritesheet_42
+  - first:
+      213: -4715828875473247023
+    second: You Died Spritesheet_43
+  - first:
+      213: 6517946142558284437
+    second: You Died Spritesheet_44
+  - first:
+      213: 3380070611273874815
+    second: You Died Spritesheet_45
+  - first:
+      213: -1715044610357302713
+    second: You Died Spritesheet_46
+  - first:
+      213: 2829610580449861743
+    second: You Died Spritesheet_47
+  - first:
+      213: 7861289994298580521
+    second: You Died Spritesheet_48
+  - first:
+      213: 4788835336704616602
+    second: You Died Spritesheet_49
+  - first:
+      213: -106130608001120659
+    second: You Died Spritesheet_50
+  - first:
+      213: 2044375607254303075
+    second: You Died Spritesheet_51
+  - first:
+      213: 3955932424660946850
+    second: You Died Spritesheet_52
+  - first:
+      213: 7780251439871502939
+    second: You Died Spritesheet_53
+  - first:
+      213: 5679453985328462623
+    second: You Died Spritesheet_54
+  - first:
+      213: -1621529757834858835
+    second: You Died Spritesheet_55
+  - first:
+      213: -2566972717645198446
+    second: You Died Spritesheet_56
+  - first:
+      213: -5360986665951253706
+    second: You Died Spritesheet_57
+  - first:
+      213: -2063554210781139494
+    second: You Died Spritesheet_58
+  - first:
+      213: -4529219653349533937
+    second: You Died Spritesheet_59
+  - first:
+      213: -4073358458514856926
+    second: You Died Spritesheet_60
+  - first:
+      213: 5586667252157244617
+    second: You Died Spritesheet_61
+  - first:
+      213: -289165157700761765
+    second: You Died Spritesheet_62
+  - first:
+      213: -1532516330350637593
+    second: You Died Spritesheet_63
+  - first:
+      213: 6383079003708857817
+    second: You Died Spritesheet_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: You Died Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2392
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09535310feec56cb0800000000000000
+      internalID: -4871259896018553456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2392
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae7df3e13845bf0800000000000000
+      internalID: -336499906202572044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2392
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721c3d8da4ffa380800000000000000
+      internalID: -8957672107580583298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17acf4cb47f58e710800000000000000
+      internalID: 1722731812449405553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2208
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d6d6fee8ab5e500800000000000000
+      internalID: 424950862921428289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2208
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f978699bc9e3270800000000000000
+      internalID: 8232189489788198734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2208
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b799f6fb2fe1f0800000000000000
+      internalID: -1013543051385653507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2208
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb708b94e63cd50800000000000000
+      internalID: 6756365128885059555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206bc3b3b9622e700800000000000000
+      internalID: 568058951157724674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2024
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e479ff86e13c380800000000000000
+      internalID: -8952278197968875918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2024
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0a3c0390542590800000000000000
+      internalID: -7699940870401159316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2024
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbdacaa33895c80800000000000000
+      internalID: -8333485347443983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2024
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f69b306f1ba56b0800000000000000
+      internalID: -5306733540720152696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3ea548135bce60800000000000000
+      internalID: 7983566128157703827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1840
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722718886f7831c20800000000000000
+      internalID: 3176031655148220967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1840
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d2c53cf4775a50800000000000000
+      internalID: 6509800412969884050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1840
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d8064a80fca950800000000000000
+      internalID: 6461804042040955269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1840
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621aca63e0cfbba0800000000000000
+      internalID: -6070921689690402205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a739e7481465850800000000000000
+      internalID: 6365347160649857657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1656
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7e16a3da99c6a0800000000000000
+      internalID: -6428436759278879605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1656
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c7e7cbf00ff9e0800000000000000
+      internalID: -1585547462420477590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1656
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa87ff99ea65e200800000000000000
+      internalID: 208690509386320639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1656
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40791b8642b075480800000000000000
+      internalID: -8910641086726039804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7b0b48db58dc80800000000000000
+      internalID: -8297781328900031543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1472
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6462993e45f07880800000000000000
+      internalID: -8615116370837609365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1472
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c95f078ca50c30800000000000000
+      internalID: 4325052713237334158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1472
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0452f81b8d3c3c0800000000000000
+      internalID: -4340387358732631871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1472
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce86c1321b25f73c0800000000000000
+      internalID: -4359674993519597332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9066b1b1e8263f0800000000000000
+      internalID: -909007927700485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1288
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeffaa040eefcd00800000000000000
+      internalID: 995275743798755034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1288
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2b6b37c34708d0800000000000000
+      internalID: -2880258913705709580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1288
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc15a46858eb210800000000000000
+      internalID: 1350663750076714397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1288
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc32b6c79ec4ca0800000000000000
+      internalID: -6031189080373212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b5a288a6c9a200800000000000000
+      internalID: 191902886188659813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1104
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be071753bb1bc5b0800000000000000
+      internalID: -5347149675498107215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1104
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c360ffb1bbae10800000000000000
+      internalID: 2210055480085299247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1104
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f419536d9c23cd6c0800000000000000
+      internalID: -4117360116859825841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1104
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bee3a134ff0a340800000000000000
+      internalID: 4873175460483099441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1242d17f3e67e80800000000000000
+      internalID: -8181101022586592798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 920
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1ec3800552158f0800000000000000
+      internalID: -553620253524041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 920
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f28d60ff903520800000000000000
+      internalID: 2679817633263711456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 920
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ff3b9cf3e806b0800000000000000
+      internalID: -5329759484917058383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 920
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918dc145f1ac6860800000000000000
+      internalID: 7524567152172302738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d423ef8f920e8eb0800000000000000
+      internalID: -4715828875473247023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 736
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a605cab75647a50800000000000000
+      internalID: 6517946142558284437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 736
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d77b4005c68ee20800000000000000
+      internalID: 3380070611273874815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 736
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a64b97300f238e0800000000000000
+      internalID: -1715044610357302713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 736
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a66cb4dbc44720800000000000000
+      internalID: 2829610580449861743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92edf725999e81d60800000000000000
+      internalID: 7861289994298580521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 552
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ed1ccd5c557240800000000000000
+      internalID: 4788835336704616602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 552
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d660c4a36c2f68ef0800000000000000
+      internalID: -106130608001120659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 552
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361cdd188c41f5c10800000000000000
+      internalID: 2044375607254303075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 552
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8d5fa49b46e630800000000000000
+      internalID: 3955932424660946850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a23c8867109fb60800000000000000
+      internalID: 7780251439871502939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 368
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfda10f4971de40800000000000000
+      internalID: 5679453985328462623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 368
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2787c64b2f79e0800000000000000
+      internalID: -1621529757834858835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 368
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b83a8e9e7406cd0800000000000000
+      internalID: -2566972717645198446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 368
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bae52f703f995b0800000000000000
+      internalID: -5360986665951253706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde0a3e068cc53e0800000000000000
+      internalID: -2063554210781139494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 184
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07126cd8baf421c0800000000000000
+      internalID: -4529219653349533937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 184
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a36540168877c0800000000000000
+      internalID: -4073358458514856926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 184
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e3233444d78d40800000000000000
+      internalID: 5586667252157244617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 184
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5783d532ddacfbf0800000000000000
+      internalID: -289165157700761765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed07f464886bbae0800000000000000
+      internalID: -1532516330350637593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You Died Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 494
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd125de880459850800000000000000
+      internalID: 6383079003708857817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ce69dd73d2f03849b6b42bc239e856a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

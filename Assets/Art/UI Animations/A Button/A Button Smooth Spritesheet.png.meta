@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: c2c914fdfe918d44f81ff9e1b9e4f9a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8052813896896228620
+    second: A Button Smooth Spritesheet_0
+  - first:
+      213: -2441719044144866638
+    second: A Button Smooth Spritesheet_1
+  - first:
+      213: -8989855225256604889
+    second: A Button Smooth Spritesheet_2
+  - first:
+      213: -3715026278026835561
+    second: A Button Smooth Spritesheet_3
+  - first:
+      213: 2430286285329732032
+    second: A Button Smooth Spritesheet_4
+  - first:
+      213: 8519803953185661654
+    second: A Button Smooth Spritesheet_5
+  - first:
+      213: 1609454914099838609
+    second: A Button Smooth Spritesheet_6
+  - first:
+      213: -4448549139024203458
+    second: A Button Smooth Spritesheet_7
+  - first:
+      213: -1339507222292126015
+    second: A Button Smooth Spritesheet_8
+  - first:
+      213: -1639618438652745096
+    second: A Button Smooth Spritesheet_9
+  - first:
+      213: 7294507431264120671
+    second: A Button Smooth Spritesheet_10
+  - first:
+      213: -2613261614387825832
+    second: A Button Smooth Spritesheet_11
+  - first:
+      213: -2846553676417854609
+    second: A Button Smooth Spritesheet_12
+  - first:
+      213: 6034166893922439031
+    second: A Button Smooth Spritesheet_13
+  - first:
+      213: 1041899089262839529
+    second: A Button Smooth Spritesheet_14
+  - first:
+      213: -8056041347015264635
+    second: A Button Smooth Spritesheet_15
+  - first:
+      213: 4878377137347140640
+    second: A Button Smooth Spritesheet_16
+  - first:
+      213: -3106486259605482383
+    second: A Button Smooth Spritesheet_17
+  - first:
+      213: 3516826024809953303
+    second: A Button Smooth Spritesheet_18
+  - first:
+      213: 4931262260474390436
+    second: A Button Smooth Spritesheet_19
+  - first:
+      213: 8399918419118864484
+    second: A Button Smooth Spritesheet_20
+  - first:
+      213: 6560702817653368183
+    second: A Button Smooth Spritesheet_21
+  - first:
+      213: -5885679253959509907
+    second: A Button Smooth Spritesheet_22
+  - first:
+      213: -6852494696641395251
+    second: A Button Smooth Spritesheet_23
+  - first:
+      213: -7030771180440715880
+    second: A Button Smooth Spritesheet_24
+  - first:
+      213: 3745573554028288621
+    second: A Button Smooth Spritesheet_25
+  - first:
+      213: -6870290710436581149
+    second: A Button Smooth Spritesheet_26
+  - first:
+      213: -5796659570998912287
+    second: A Button Smooth Spritesheet_27
+  - first:
+      213: -8355080570888803835
+    second: A Button Smooth Spritesheet_28
+  - first:
+      213: 7467659249994331363
+    second: A Button Smooth Spritesheet_29
+  - first:
+      213: -3975827642011984347
+    second: A Button Smooth Spritesheet_30
+  - first:
+      213: -2140265376906935450
+    second: A Button Smooth Spritesheet_31
+  - first:
+      213: -75898097289325830
+    second: A Button Smooth Spritesheet_32
+  - first:
+      213: -1070958550703293247
+    second: A Button Smooth Spritesheet_33
+  - first:
+      213: -1443822543794833252
+    second: A Button Smooth Spritesheet_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d24d6d29751cf60800000000000000
+      internalID: 8052813896896228620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1218
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba507457754d1ed0800000000000000
+      internalID: -2441719044144866638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1218
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b046c8d4e9d3380800000000000000
+      internalID: -8989855225256604889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1218
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79908fe7843917cc0800000000000000
+      internalID: -3715026278026835561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1218
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11593108c1ab120800000000000000
+      internalID: 2430286285329732032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a9993e8c6c3670800000000000000
+      internalID: 8519803953185661654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1015
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7de497bee55610800000000000000
+      internalID: 1609454914099838609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1015
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b792a0249342c0800000000000000
+      internalID: -4448549139024203458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1015
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c62531474d196de0800000000000000
+      internalID: -1339507222292126015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1015
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2ce497b7ee39e0800000000000000
+      internalID: -1639618438652745096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe1fb5cdb4b3560800000000000000
+      internalID: 7294507431264120671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 812
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ff394864dbbbd0800000000000000
+      internalID: -2613261614387825832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 812
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63180353820f78d0800000000000000
+      internalID: -2846553676417854609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 812
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4ba3d1daadb350800000000000000
+      internalID: 6034166893922439031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 812
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6805393b1957e00800000000000000
+      internalID: 1041899089262839529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586bb4fd311333090800000000000000
+      internalID: -8056041347015264635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 609
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c96ffd82a73b340800000000000000
+      internalID: 4878377137347140640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 609
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174559ca43b83e4d0800000000000000
+      internalID: -3106486259605482383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 609
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71875a9f2a64ec030800000000000000
+      internalID: 3516826024809953303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 609
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7add126ec5f6440800000000000000
+      internalID: 4931262260474390436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46837d92c41829470800000000000000
+      internalID: 8399918419118864484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 406
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775222bd37c4c0b50800000000000000
+      internalID: 6560702817653368183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 406
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687bd5f6edd15ea0800000000000000
+      internalID: -5885679253959509907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 406
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50175216c07e0a0800000000000000
+      internalID: -6852494696641395251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 406
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df6ccacdead6e90800000000000000
+      internalID: -7030771180440715880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a14ff6d43faf330800000000000000
+      internalID: 3745573554028288621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f2cccff2d7a0a0800000000000000
+      internalID: -6870290710436581149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 203
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaddba05d02e8fa0800000000000000
+      internalID: -5796659570998912287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 203
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa766ec7acc0c80800000000000000
+      internalID: -8355080570888803835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 203
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e47293c58472a760800000000000000
+      internalID: 7467659249994331363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e52bd03d503d8c0800000000000000
+      internalID: -3975827642011984347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630564baff3c42e0800000000000000
+      internalID: -2140265376906935450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af211f7251b52fef0800000000000000
+      internalID: -75898097289325830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccb9205fd03321f0800000000000000
+      internalID: -1070958550703293247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A Button Smooth Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 210
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98786ecb0386fbe0800000000000000
+      internalID: -1443822543794833252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 163d5d435e606f84e8b7501d204ef338
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

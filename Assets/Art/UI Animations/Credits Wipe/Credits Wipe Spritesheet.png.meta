@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 8fff1c9297136f5468d5f58f15482587
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6689418173613763946
+    second: Credits Wipe Spritesheet_0
+  - first:
+      213: -7222482203486693373
+    second: Credits Wipe Spritesheet_1
+  - first:
+      213: 7704299585346616471
+    second: Credits Wipe Spritesheet_2
+  - first:
+      213: 5539016629281680529
+    second: Credits Wipe Spritesheet_3
+  - first:
+      213: 4660453794161944149
+    second: Credits Wipe Spritesheet_4
+  - first:
+      213: 2391423938353141564
+    second: Credits Wipe Spritesheet_5
+  - first:
+      213: -7249304425231209958
+    second: Credits Wipe Spritesheet_6
+  - first:
+      213: -3389271233126801973
+    second: Credits Wipe Spritesheet_7
+  - first:
+      213: 5815804471929794992
+    second: Credits Wipe Spritesheet_8
+  - first:
+      213: 1493290390554871192
+    second: Credits Wipe Spritesheet_9
+  - first:
+      213: 341593932921667550
+    second: Credits Wipe Spritesheet_10
+  - first:
+      213: -7973699738279631974
+    second: Credits Wipe Spritesheet_11
+  - first:
+      213: -1025969509900243439
+    second: Credits Wipe Spritesheet_12
+  - first:
+      213: -6993823788496176932
+    second: Credits Wipe Spritesheet_13
+  - first:
+      213: -3373593563005275581
+    second: Credits Wipe Spritesheet_14
+  - first:
+      213: -2835312954683038032
+    second: Credits Wipe Spritesheet_15
+  - first:
+      213: 5418245173224540234
+    second: Credits Wipe Spritesheet_16
+  - first:
+      213: 7306859593514250676
+    second: Credits Wipe Spritesheet_17
+  - first:
+      213: 4287334368726939701
+    second: Credits Wipe Spritesheet_18
+  - first:
+      213: 5769402477493638193
+    second: Credits Wipe Spritesheet_19
+  - first:
+      213: 4814098420072003406
+    second: Credits Wipe Spritesheet_20
+  - first:
+      213: 1912928486284777203
+    second: Credits Wipe Spritesheet_21
+  - first:
+      213: -4696088169027879035
+    second: Credits Wipe Spritesheet_22
+  - first:
+      213: -8149074161307813276
+    second: Credits Wipe Spritesheet_23
+  - first:
+      213: 8729224547580099135
+    second: Credits Wipe Spritesheet_24
+  - first:
+      213: 5537338044553953928
+    second: Credits Wipe Spritesheet_25
+  - first:
+      213: -8825983338823871663
+    second: Credits Wipe Spritesheet_26
+  - first:
+      213: -129729386416409296
+    second: Credits Wipe Spritesheet_27
+  - first:
+      213: 488860915392080248
+    second: Credits Wipe Spritesheet_28
+  - first:
+      213: -3484831455586170408
+    second: Credits Wipe Spritesheet_29
+  - first:
+      213: -7979696849094598560
+    second: Credits Wipe Spritesheet_30
+  - first:
+      213: 1541727184822902455
+    second: Credits Wipe Spritesheet_31
+  - first:
+      213: 3755647124175772322
+    second: Credits Wipe Spritesheet_32
+  - first:
+      213: 2097487196706567607
+    second: Credits Wipe Spritesheet_33
+  - first:
+      213: 6111407833390400037
+    second: Credits Wipe Spritesheet_34
+  - first:
+      213: -4683570999240012448
+    second: Credits Wipe Spritesheet_35
+  - first:
+      213: 8596332203788310940
+    second: Credits Wipe Spritesheet_36
+  - first:
+      213: 2249518247035268266
+    second: Credits Wipe Spritesheet_37
+  - first:
+      213: 1135600845850814936
+    second: Credits Wipe Spritesheet_38
+  - first:
+      213: -5043845560273555743
+    second: Credits Wipe Spritesheet_39
+  - first:
+      213: 4378831956788934076
+    second: Credits Wipe Spritesheet_40
+  - first:
+      213: 4453222979434877169
+    second: Credits Wipe Spritesheet_41
+  - first:
+      213: 8192220558516035493
+    second: Credits Wipe Spritesheet_42
+  - first:
+      213: 7410254388077827089
+    second: Credits Wipe Spritesheet_43
+  - first:
+      213: -7717883859786837591
+    second: Credits Wipe Spritesheet_44
+  - first:
+      213: 2367479510389482803
+    second: Credits Wipe Spritesheet_45
+  - first:
+      213: -2851849745101913508
+    second: Credits Wipe Spritesheet_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6a48036695dc50800000000000000
+      internalID: 6689418173613763946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085898c3b694cb90800000000000000
+      internalID: -7222482203486693373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c36cb57ab2bea60800000000000000
+      internalID: 7704299585346616471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce051074a8edc40800000000000000
+      internalID: 5539016629281680529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e42d98024da040800000000000000
+      internalID: 4660453794161944149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3797e0d66b003120800000000000000
+      internalID: 2391423938353141564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2d61a80c456b90800000000000000
+      internalID: -7249304425231209958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd60645c3e6f0d0800000000000000
+      internalID: -3389271233126801973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f0809a53e5b050800000000000000
+      internalID: 5815804471929794992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895078bc2bb39b410800000000000000
+      internalID: 1493290390554871192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf79354fd59db400800000000000000
+      internalID: 341593932921667550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a732a55ab75190800000000000000
+      internalID: -7973699738279631974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea304aa2603c1f0800000000000000
+      internalID: -1025969509900243439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83209b152f0fe90800000000000000
+      internalID: -6993823788496176932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b68c47869e21d0800000000000000
+      internalID: -3373593563005275581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ed0dc3e1f6a8d0800000000000000
+      internalID: -2835312954683038032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4806082749713b40800000000000000
+      internalID: 5418245173224540234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1721f361e276560800000000000000
+      internalID: 7306859593514250676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fa41a4ebaf7b30800000000000000
+      internalID: 4287334368726939701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13454455cf8011050800000000000000
+      internalID: 5769402477493638193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e473922c10d1fc240800000000000000
+      internalID: 4814098420072003406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6dab9b2561c8a10800000000000000
+      internalID: 1912928486284777203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fbd23f0b424deb0800000000000000
+      internalID: -4696088169027879035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46afee6d93ca8ee80800000000000000
+      internalID: -8149074161307813276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab1230a7f642970800000000000000
+      internalID: 8729224547580099135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88205ea0d9398dc40800000000000000
+      internalID: 5537338044553953928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15313e75aeec38580800000000000000
+      internalID: -8825983338823871663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03578b57fcb133ef0800000000000000
+      internalID: -129729386416409296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87964869968c8c600800000000000000
+      internalID: 488860915392080248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9cdab214463afc0800000000000000
+      internalID: -3484831455586170408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a9667efb624190800000000000000
+      internalID: -7979696849094598560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9ee7c4b0556510800000000000000
+      internalID: 1541727184822902455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad632492dbe1430800000000000000
+      internalID: 3755647124175772322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ff901e75cb1d10800000000000000
+      internalID: 2097487196706567607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52246ca7b0510d450800000000000000
+      internalID: 6111407833390400037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4af5adfc900fb0800000000000000
+      internalID: -4683570999240012448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999d02189e4c4770800000000000000
+      internalID: 8596332203788310940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaceb4e5de4e73f10800000000000000
+      internalID: 2249518247035268266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9229fd3f672cf00800000000000000
+      internalID: 1135600845850814936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea6f5bf29a00ab0800000000000000
+      internalID: -5043845560273555743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57883f67cb4cc30800000000000000
+      internalID: 4378831956788934076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f092d2a4b60dcd30800000000000000
+      internalID: 4453222979434877169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1008913d90b170800000000000000
+      internalID: 8192220558516035493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11498a0da1386d660800000000000000
+      internalID: 7410254388077827089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a15fa7458194e490800000000000000
+      internalID: -7717883859786837591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e7cd321afad020800000000000000
+      internalID: 2367479510389482803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Credits Wipe Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52896e34c13c68d0800000000000000
+      internalID: -2851849745101913508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bbc1da1fc372d2440b44831b2c43258e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

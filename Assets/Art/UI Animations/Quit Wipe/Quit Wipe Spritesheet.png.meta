@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: fe894edd0d238fa44aeba485303016d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9155071602665532002
+    second: Quit Wipe Spritesheet_0
+  - first:
+      213: -7223127755122131436
+    second: Quit Wipe Spritesheet_1
+  - first:
+      213: 8241035195276215155
+    second: Quit Wipe Spritesheet_2
+  - first:
+      213: 114368012591805430
+    second: Quit Wipe Spritesheet_3
+  - first:
+      213: -4891813738447040069
+    second: Quit Wipe Spritesheet_4
+  - first:
+      213: 3435471090620989563
+    second: Quit Wipe Spritesheet_5
+  - first:
+      213: -8605893225286531486
+    second: Quit Wipe Spritesheet_6
+  - first:
+      213: 5346594881896837385
+    second: Quit Wipe Spritesheet_7
+  - first:
+      213: 4208986699148414959
+    second: Quit Wipe Spritesheet_8
+  - first:
+      213: -1919589960648776783
+    second: Quit Wipe Spritesheet_9
+  - first:
+      213: 1602710013927472151
+    second: Quit Wipe Spritesheet_10
+  - first:
+      213: -7799733369414908499
+    second: Quit Wipe Spritesheet_11
+  - first:
+      213: -553221074342275958
+    second: Quit Wipe Spritesheet_12
+  - first:
+      213: -3125817691220552031
+    second: Quit Wipe Spritesheet_13
+  - first:
+      213: -7147846200188797023
+    second: Quit Wipe Spritesheet_14
+  - first:
+      213: 7641680985226919666
+    second: Quit Wipe Spritesheet_15
+  - first:
+      213: 4239747361171378274
+    second: Quit Wipe Spritesheet_16
+  - first:
+      213: 2737235371946012993
+    second: Quit Wipe Spritesheet_17
+  - first:
+      213: -6344536797510656698
+    second: Quit Wipe Spritesheet_18
+  - first:
+      213: -8071444990682588722
+    second: Quit Wipe Spritesheet_19
+  - first:
+      213: -1876325015850602290
+    second: Quit Wipe Spritesheet_20
+  - first:
+      213: -4916052567230474367
+    second: Quit Wipe Spritesheet_21
+  - first:
+      213: -5508244638276259395
+    second: Quit Wipe Spritesheet_22
+  - first:
+      213: -1824652573893056393
+    second: Quit Wipe Spritesheet_23
+  - first:
+      213: -2512132744559967072
+    second: Quit Wipe Spritesheet_24
+  - first:
+      213: 6645389987374601259
+    second: Quit Wipe Spritesheet_25
+  - first:
+      213: -8370011955660353400
+    second: Quit Wipe Spritesheet_26
+  - first:
+      213: -2805332765696016599
+    second: Quit Wipe Spritesheet_27
+  - first:
+      213: -7759892820938705349
+    second: Quit Wipe Spritesheet_28
+  - first:
+      213: 2080071537589431253
+    second: Quit Wipe Spritesheet_29
+  - first:
+      213: 4779345452572544998
+    second: Quit Wipe Spritesheet_30
+  - first:
+      213: 2969522518906127838
+    second: Quit Wipe Spritesheet_31
+  - first:
+      213: -9095134166302174942
+    second: Quit Wipe Spritesheet_32
+  - first:
+      213: -6265788933989093853
+    second: Quit Wipe Spritesheet_33
+  - first:
+      213: -5824930379896468236
+    second: Quit Wipe Spritesheet_34
+  - first:
+      213: -2642589272468903838
+    second: Quit Wipe Spritesheet_35
+  - first:
+      213: -6116022069476962347
+    second: Quit Wipe Spritesheet_36
+  - first:
+      213: 1213561965727026101
+    second: Quit Wipe Spritesheet_37
+  - first:
+      213: 7129898627965972742
+    second: Quit Wipe Spritesheet_38
+  - first:
+      213: -8508636270418667986
+    second: Quit Wipe Spritesheet_39
+  - first:
+      213: -2797978843136878124
+    second: Quit Wipe Spritesheet_40
+  - first:
+      213: 5782033970686270623
+    second: Quit Wipe Spritesheet_41
+  - first:
+      213: -4291548869864676286
+    second: Quit Wipe Spritesheet_42
+  - first:
+      213: 8544760744844499791
+    second: Quit Wipe Spritesheet_43
+  - first:
+      213: 6273868256798603247
+    second: Quit Wipe Spritesheet_44
+  - first:
+      213: 6850118425943153511
+    second: Quit Wipe Spritesheet_45
+  - first:
+      213: 2823625887532619474
+    second: Quit Wipe Spritesheet_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95dadd02e6a2f080800000000000000
+      internalID: -9155071602665532002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e3ea4939b42cb90800000000000000
+      internalID: -7223127755122131436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734ee3e8d90e5270800000000000000
+      internalID: 8241035195276215155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b33cf911569100800000000000000
+      internalID: 114368012591805430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11d74a259cc1cb0800000000000000
+      internalID: -4891813738447040069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70869841ce3daf20800000000000000
+      internalID: 3435471090620989563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660bd325b9b19880800000000000000
+      internalID: -8605893225286531486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f165b7bbe23a40800000000000000
+      internalID: 5346594881896837385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc51b4a13596a30800000000000000
+      internalID: 4208986699148414959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3af19e91f3c55e0800000000000000
+      internalID: -1919589960648776783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbb122448fd3610800000000000000
+      internalID: 1602710013927472151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5834543d7c1c390800000000000000
+      internalID: -7799733369414908499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84919d2d509258f0800000000000000
+      internalID: -553221074342275958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6da220f5dde94d0800000000000000
+      internalID: -3125817691220552031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affe9870cfbdcc90800000000000000
+      internalID: -7147846200188797023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2febe436e54bc0a60800000000000000
+      internalID: 7641680985226919666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260150803cb96da30800000000000000
+      internalID: 4239747361171378274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f97b711d9cf520800000000000000
+      internalID: 2737235371946012993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9bffb56da3f7a0800000000000000
+      internalID: -6344536797510656698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9124a9b877cff80800000000000000
+      internalID: -8071444990682588722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0bb0bd654f5f5e0800000000000000
+      internalID: -1876325015850602290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18794198c3ca6cbb0800000000000000
+      internalID: -4916052567230474367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f7977fa8ce83b0800000000000000
+      internalID: -5508244638276259395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782a96c6288da6e0800000000000000
+      internalID: -1824652573893056393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a440e3249c132dd0800000000000000
+      internalID: -2512132744559967072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2496671cfa293c50800000000000000
+      internalID: 6645389987374601259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809719f87eb7db80800000000000000
+      internalID: -8370011955660353400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbcef76b47119d0800000000000000
+      internalID: -2805332765696016599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3638d0d7925f4490800000000000000
+      internalID: -7759892820938705349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2b61fa06eddc10800000000000000
+      internalID: 2080071537589431253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef0777fd55a35240800000000000000
+      internalID: 4779345452572544998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54ceb6ffcd53920800000000000000
+      internalID: 2969522518906127838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2215a01f9a797c180800000000000000
+      internalID: -9095134166302174942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea10089227b09a0800000000000000
+      internalID: -6265788933989093853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc3e86ea0b92fa0800000000000000
+      internalID: -5824930379896468236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ab37ce03a35bd0800000000000000
+      internalID: -2642589272468903838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4066f4568f1ba0800000000000000
+      internalID: -6116022069476962347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb85189d2077d010800000000000000
+      internalID: 1213561965727026101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601f47cb60d72f260800000000000000
+      internalID: 7129898627965972742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d0ba84604be980800000000000000
+      internalID: -8508636270418667986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d994c501159b29d0800000000000000
+      internalID: -2797978843136878124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c1ff50349ed3050800000000000000
+      internalID: 5782033970686270623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244ac7b5a0b5174c0800000000000000
+      internalID: -4291548869864676286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b982710a6159670800000000000000
+      internalID: 8544760744844499791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7741e60f1411750800000000000000
+      internalID: 6273868256798603247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b13b73a62801f50800000000000000
+      internalID: 6850118425943153511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Wipe Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d69af4d8c88f2720800000000000000
+      internalID: 2823625887532619474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f384240c48ae77643aa76d71a0b3cfd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

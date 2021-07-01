@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: 2b36a729543cd094bbdc0bb5c33148ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8079129236562039832
+    second: Title Wipe Spritesheet_0
+  - first:
+      213: 8400567020454398818
+    second: Title Wipe Spritesheet_1
+  - first:
+      213: -9199060947236579166
+    second: Title Wipe Spritesheet_2
+  - first:
+      213: -673630514644075213
+    second: Title Wipe Spritesheet_3
+  - first:
+      213: -8063551104079029467
+    second: Title Wipe Spritesheet_4
+  - first:
+      213: -2572546026073869365
+    second: Title Wipe Spritesheet_5
+  - first:
+      213: 6048745388133048313
+    second: Title Wipe Spritesheet_6
+  - first:
+      213: 871478803493229091
+    second: Title Wipe Spritesheet_7
+  - first:
+      213: 4880520626146378955
+    second: Title Wipe Spritesheet_8
+  - first:
+      213: 4015444760125574557
+    second: Title Wipe Spritesheet_9
+  - first:
+      213: 4366100217872078544
+    second: Title Wipe Spritesheet_10
+  - first:
+      213: -3916070105191967567
+    second: Title Wipe Spritesheet_11
+  - first:
+      213: -6064024513608762712
+    second: Title Wipe Spritesheet_12
+  - first:
+      213: 571502554642781348
+    second: Title Wipe Spritesheet_13
+  - first:
+      213: 8339164132857306166
+    second: Title Wipe Spritesheet_14
+  - first:
+      213: 8743383726925792211
+    second: Title Wipe Spritesheet_15
+  - first:
+      213: -8503975779561783662
+    second: Title Wipe Spritesheet_16
+  - first:
+      213: 3411006782637190448
+    second: Title Wipe Spritesheet_17
+  - first:
+      213: -7148458272862651393
+    second: Title Wipe Spritesheet_18
+  - first:
+      213: 4042273745576208628
+    second: Title Wipe Spritesheet_19
+  - first:
+      213: 6750350610343857958
+    second: Title Wipe Spritesheet_20
+  - first:
+      213: -6237965873422348097
+    second: Title Wipe Spritesheet_21
+  - first:
+      213: 1272653885485158210
+    second: Title Wipe Spritesheet_22
+  - first:
+      213: -8489949345443555056
+    second: Title Wipe Spritesheet_23
+  - first:
+      213: 6646799501034560175
+    second: Title Wipe Spritesheet_24
+  - first:
+      213: -6072062089407379980
+    second: Title Wipe Spritesheet_25
+  - first:
+      213: -1392510070763136340
+    second: Title Wipe Spritesheet_26
+  - first:
+      213: -851223380818801887
+    second: Title Wipe Spritesheet_27
+  - first:
+      213: -2520246319451008436
+    second: Title Wipe Spritesheet_28
+  - first:
+      213: 4092588283292376531
+    second: Title Wipe Spritesheet_29
+  - first:
+      213: 4238778467571569701
+    second: Title Wipe Spritesheet_30
+  - first:
+      213: 1743578312974060399
+    second: Title Wipe Spritesheet_31
+  - first:
+      213: -6603128492180537708
+    second: Title Wipe Spritesheet_32
+  - first:
+      213: -177449476731182639
+    second: Title Wipe Spritesheet_33
+  - first:
+      213: 5906663452770548780
+    second: Title Wipe Spritesheet_34
+  - first:
+      213: 6251097823769518958
+    second: Title Wipe Spritesheet_35
+  - first:
+      213: 6564443375004100161
+    second: Title Wipe Spritesheet_36
+  - first:
+      213: -1890238369947329245
+    second: Title Wipe Spritesheet_37
+  - first:
+      213: 7474636456565184405
+    second: Title Wipe Spritesheet_38
+  - first:
+      213: 3541011779750862650
+    second: Title Wipe Spritesheet_39
+  - first:
+      213: -5859060035790373271
+    second: Title Wipe Spritesheet_40
+  - first:
+      213: 1752287503697953226
+    second: Title Wipe Spritesheet_41
+  - first:
+      213: 1159480531363522389
+    second: Title Wipe Spritesheet_42
+  - first:
+      213: 36832466808209709
+    second: Title Wipe Spritesheet_43
+  - first:
+      213: -3663113025181247068
+    second: Title Wipe Spritesheet_44
+  - first:
+      213: -746441463356957999
+    second: Title Wipe Spritesheet_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2f30b3ca21ef80800000000000000
+      internalID: -8079129236562039832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bcb0e623fc49470800000000000000
+      internalID: 8400567020454398818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89bc4aece565080800000000000000
+      internalID: -9199060947236579166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db6c0bd98c6a6f0800000000000000
+      internalID: -673630514644075213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3654
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b192d4ef2881090800000000000000
+      internalID: -8063551104079029467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3368be40b7c4cd0800000000000000
+      internalID: -2572546026073869365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd37402e571f350800000000000000
+      internalID: 6048745388133048313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3221f7fba5d181c00800000000000000
+      internalID: 871478803493229091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc40c60c6a71bb340800000000000000
+      internalID: 4880520626146378955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 3248
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0d7e0cb9b9b730800000000000000
+      internalID: 4015444760125574557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6550cf301879c30800000000000000
+      internalID: 4366100217872078544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49180dcf257a9c0800000000000000
+      internalID: -3916070105191967567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab61d55d148dba0800000000000000
+      internalID: -6064024513608762712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a416b5ab826ee700800000000000000
+      internalID: 571502554642781348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2842
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c53a69899aab370800000000000000
+      internalID: 8339164132857306166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c75adc2db65970800000000000000
+      internalID: 8743383726925792211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb1b0a51fcbf980800000000000000
+      internalID: -8503975779561783662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da985b894565f20800000000000000
+      internalID: 3411006782637190448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb15233139bcc90800000000000000
+      internalID: -7148458272862651393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2436
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f825f10e8a091830800000000000000
+      internalID: 4042273745576208628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f03ee7d101ead50800000000000000
+      internalID: 6750350610343857958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d6a9961b4e69a0800000000000000
+      internalID: -6237965873422348097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0d5e47ff59a110800000000000000
+      internalID: 1272653885485158210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d6cf4d04ad2a80800000000000000
+      internalID: -8489949345443555056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2030
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa98601eec2e3c50800000000000000
+      internalID: 6646799501034560175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c1ca63b3bbbba0800000000000000
+      internalID: -6072062089407379980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa520ee77fccace0800000000000000
+      internalID: -1392510070763136340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc9c958d8df24f0800000000000000
+      internalID: -851223380818801887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4213a64359460dd0800000000000000
+      internalID: -2520246319451008436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1624
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd51953c5bcbc830800000000000000
+      internalID: 4092588283292376531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5249d29ee8a23da30800000000000000
+      internalID: 4238778467571569701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc4eedc3f623810800000000000000
+      internalID: 1743578312974060399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e71590f99fc54a0800000000000000
+      internalID: -6603128492180537708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ebdd14a2998df0800000000000000
+      internalID: -177449476731182639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1218
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbb2e8d1fa8f150800000000000000
+      internalID: 5906663452770548780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63eff9d95c50c650800000000000000
+      internalID: 6251097823769518958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146294b3876991b50800000000000000
+      internalID: 6564443375004100161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd97aa73684c5e0800000000000000
+      internalID: -1890238369947329245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59790c2414e3bb760800000000000000
+      internalID: 7474636456565184405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 812
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f168dd373342130800000000000000
+      internalID: 3541011779750862650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef609a0ff60bea0800000000000000
+      internalID: -5859060035790373271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c54a5330615810800000000000000
+      internalID: 1752287503697953226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55767eb666d471010800000000000000
+      internalID: 1159480531363522389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210e44feead28000800000000000000
+      internalID: 36832466808209709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 406
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a917f19c120a2dc0800000000000000
+      internalID: -3663113025181247068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Wipe Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 958
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5cf2a17b14a5f0800000000000000
+      internalID: -746441463356957999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9859881f2485bee4b89ad89b4772bb27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

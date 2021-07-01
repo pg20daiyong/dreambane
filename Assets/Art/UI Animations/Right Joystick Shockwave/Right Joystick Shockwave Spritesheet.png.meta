@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 72d446054e048614fb41351eded9d4af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3336253435283594799
+    second: Right Joystick Shockwave Spritesheet_0
+  - first:
+      213: 1228547052489808846
+    second: Right Joystick Shockwave Spritesheet_1
+  - first:
+      213: -623140813403830776
+    second: Right Joystick Shockwave Spritesheet_2
+  - first:
+      213: 8173358378685020721
+    second: Right Joystick Shockwave Spritesheet_3
+  - first:
+      213: -2653798772898163299
+    second: Right Joystick Shockwave Spritesheet_4
+  - first:
+      213: -4383696864923121192
+    second: Right Joystick Shockwave Spritesheet_5
+  - first:
+      213: -7210767198994421115
+    second: Right Joystick Shockwave Spritesheet_6
+  - first:
+      213: -5071333643416033631
+    second: Right Joystick Shockwave Spritesheet_7
+  - first:
+      213: -1819113058723907767
+    second: Right Joystick Shockwave Spritesheet_8
+  - first:
+      213: 5550353578416237072
+    second: Right Joystick Shockwave Spritesheet_9
+  - first:
+      213: -1080940079693704353
+    second: Right Joystick Shockwave Spritesheet_10
+  - first:
+      213: 7529186306089849922
+    second: Right Joystick Shockwave Spritesheet_11
+  - first:
+      213: -362106238394915149
+    second: Right Joystick Shockwave Spritesheet_12
+  - first:
+      213: 4265342336238978441
+    second: Right Joystick Shockwave Spritesheet_13
+  - first:
+      213: -9067747933800318436
+    second: Right Joystick Shockwave Spritesheet_14
+  - first:
+      213: -3948732928234494945
+    second: Right Joystick Shockwave Spritesheet_15
+  - first:
+      213: -6587965685795185591
+    second: Right Joystick Shockwave Spritesheet_16
+  - first:
+      213: -3604155258261788320
+    second: Right Joystick Shockwave Spritesheet_17
+  - first:
+      213: 2641017632916045773
+    second: Right Joystick Shockwave Spritesheet_18
+  - first:
+      213: -1034770632171156129
+    second: Right Joystick Shockwave Spritesheet_19
+  - first:
+      213: -3006643049756726418
+    second: Right Joystick Shockwave Spritesheet_20
+  - first:
+      213: 1938627397806437309
+    second: Right Joystick Shockwave Spritesheet_21
+  - first:
+      213: 8109056403174461267
+    second: Right Joystick Shockwave Spritesheet_22
+  - first:
+      213: 1396914827788371721
+    second: Right Joystick Shockwave Spritesheet_23
+  - first:
+      213: 4483135162398837980
+    second: Right Joystick Shockwave Spritesheet_24
+  - first:
+      213: -1304143797414261327
+    second: Right Joystick Shockwave Spritesheet_25
+  - first:
+      213: -1186728382697877417
+    second: Right Joystick Shockwave Spritesheet_26
+  - first:
+      213: -4416253661834230813
+    second: Right Joystick Shockwave Spritesheet_27
+  - first:
+      213: 5112601323734133475
+    second: Right Joystick Shockwave Spritesheet_28
+  - first:
+      213: 5980793724094429906
+    second: Right Joystick Shockwave Spritesheet_29
+  - first:
+      213: -7247947211254885853
+    second: Right Joystick Shockwave Spritesheet_30
+  - first:
+      213: 4538195164282771288
+    second: Right Joystick Shockwave Spritesheet_31
+  - first:
+      213: -626257582835579464
+    second: Right Joystick Shockwave Spritesheet_32
+  - first:
+      213: -2811609496088961168
+    second: Right Joystick Shockwave Spritesheet_33
+  - first:
+      213: 2892939218306462124
+    second: Right Joystick Shockwave Spritesheet_34
+  - first:
+      213: 8925436787875683261
+    second: Right Joystick Shockwave Spritesheet_35
+  - first:
+      213: -326614779589003837
+    second: Right Joystick Shockwave Spritesheet_36
+  - first:
+      213: 5378972068952620196
+    second: Right Joystick Shockwave Spritesheet_37
+  - first:
+      213: -2638051864720821764
+    second: Right Joystick Shockwave Spritesheet_38
+  - first:
+      213: -8516202626984789285
+    second: Right Joystick Shockwave Spritesheet_39
+  - first:
+      213: -5814494371209931190
+    second: Right Joystick Shockwave Spritesheet_40
+  - first:
+      213: 2707808173294003347
+    second: Right Joystick Shockwave Spritesheet_41
+  - first:
+      213: -2021650277746597203
+    second: Right Joystick Shockwave Spritesheet_42
+  - first:
+      213: 2640466238462510372
+    second: Right Joystick Shockwave Spritesheet_43
+  - first:
+      213: 1598571451113167309
+    second: Right Joystick Shockwave Spritesheet_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e51cab2d0cc4e20800000000000000
+      internalID: 3336253435283594799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb128df80dac0110800000000000000
+      internalID: 1228547052489808846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80644045bb82a57f0800000000000000
+      internalID: -623140813403830776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13abb7f142a9d6170800000000000000
+      internalID: 8173358378685020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9599049310db2bd0800000000000000
+      internalID: -2653798772898163299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9834b5deaf923c0800000000000000
+      internalID: -4383696864923121192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a26e1df653eeb90800000000000000
+      internalID: -7210767198994421115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a623be9be00f99b0800000000000000
+      internalID: -5071333643416033631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bc78af4631c6e0800000000000000
+      internalID: -1819113058723907767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a615b2c21d60d40800000000000000
+      internalID: 5550353578416237072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53df5e79babff0f0800000000000000
+      internalID: -1080940079693704353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449836dd0b0d7860800000000000000
+      internalID: 7529186306089849922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a4817b4a89faf0800000000000000
+      internalID: -362106238394915149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98585fc814a813b30800000000000000
+      internalID: 4265342336238978441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abc051c43e82280800000000000000
+      internalID: -9067747933800318436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e1b3b2584339c0800000000000000
+      internalID: -3948732928234494945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1000
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c17b10d18d294a0800000000000000
+      internalID: -6587965685795185591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1000
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06923f363e77bfdc0800000000000000
+      internalID: -3604155258261788320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1000
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff08f5b87c6a420800000000000000
+      internalID: 2641017632916045773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1000
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d8e6da791c3a1f0800000000000000
+      internalID: -1034770632171156129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b6adc73124646d0800000000000000
+      internalID: -3006643049756726418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 800
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b716d85367ea10800000000000000
+      internalID: 1938627397806437309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 800
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f02d6c5d7298070800000000000000
+      internalID: 8109056403174461267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 800
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074dcb72a6d26310800000000000000
+      internalID: 1396914827788371721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 800
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc88d27dab473e30800000000000000
+      internalID: 4483135162398837980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd081b3020c6ede0800000000000000
+      internalID: -1304143797414261327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505b60d2d4e78fe0800000000000000
+      internalID: -1186728382697877417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34a5061b056b2c0800000000000000
+      internalID: -4416253661834230813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6d53f0db93f640800000000000000
+      internalID: 5112601323734133475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 600
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dab887543c000350800000000000000
+      internalID: 5980793724094429906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229e52a96e1a6b90800000000000000
+      internalID: -7247947211254885853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85758702578eafe30800000000000000
+      internalID: 4538195164282771288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c035eb061f47f0800000000000000
+      internalID: -626257582835579464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f90825f082bf8d0800000000000000
+      internalID: -2811609496088961168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 400
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f3ff34e8c52820800000000000000
+      internalID: 2892939218306462124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb988638758ddb70800000000000000
+      internalID: 8925436787875683261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57434a691a77bf0800000000000000
+      internalID: -326614779589003837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac3ba20992f5aa40800000000000000
+      internalID: 5378972068952620196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf132485ec1c36bd0800000000000000
+      internalID: -2638051864720821764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 200
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab25fd4de50d980800000000000000
+      internalID: -8516202626984789285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4616870d24ce4fa0800000000000000
+      internalID: -5814494371209931190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a611ef21149520800000000000000
+      internalID: 2707808173294003347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da228d698c7a1f3e0800000000000000
+      internalID: -2021650277746597203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42548f8dd02d4a420800000000000000
+      internalID: 2640466238462510372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Joystick Shockwave Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95ea3e3444f2610800000000000000
+      internalID: 1598571451113167309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 93ff1d4f6afde8640b2eaf0aa56c8a0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
